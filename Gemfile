@@ -7,6 +7,8 @@ gem 'rails', '4.0.2'
 group :development do
   gem 'mysql2'
   gem 'rspec-rails', '2.13.1'
+  gem 'spring-commands-rspec'
+  gem 'spring'
 end
 
 group :test do
