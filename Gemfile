@@ -9,6 +9,7 @@ group :development do
   gem 'rspec-rails', '2.13.1'
   gem 'spring-commands-rspec'
   gem 'spring'
+  gem 'pry'
 end
 
 group :test do
